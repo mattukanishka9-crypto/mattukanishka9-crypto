@@ -1,4 +1,3 @@
-![logo] (https://github.com/mattukanishka9-crypto/mattukanishka9-crypto/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Kanishka</h1>
 <h3 align="center">BCA Student Seeking Opportunities For Growth & Development.</h3>
 
